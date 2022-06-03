@@ -3,4 +3,8 @@ I am confused
 ## subheader
 as mush as it get harder as mush as u learn more
 ## new feature 
+<<<<<<< HEAD
 hi there. another conflict
+=======
+hi there. some conflict
+>>>>>>> main
